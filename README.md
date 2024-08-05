@@ -1,3 +1,6 @@
+-it is medium website clone which is not fully made some work is not done on frontend but i made backend and also learn how to deploy your own npm package  .
+
+
 <<<<<<< HEAD
 ```
 npm install
