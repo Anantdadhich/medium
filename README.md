@@ -1,5 +1,5 @@
 -it is medium website clone which is not fully made some work is not done on frontend but i made backend and also learn how to deploy your own npm package  .
-
+due to some error i generate the both frontend and backend in same file i will fix it in short time but u see them and code .
 
 <<<<<<< HEAD
 ```
